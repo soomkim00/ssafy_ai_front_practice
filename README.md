@@ -1,1 +1,0 @@
-# ssafy_ai_front_practice
